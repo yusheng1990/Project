@@ -1,0 +1,8 @@
+D:\Documents\Visual Studio 2015\Projects\Lab3\Lab3\bin\Debug\Lab3.exe.config
+D:\Documents\Visual Studio 2015\Projects\Lab3\Lab3\bin\Debug\Lab3.XML
+D:\Documents\Visual Studio 2015\Projects\Lab3\Lab3\bin\Debug\Lab3.exe
+D:\Documents\Visual Studio 2015\Projects\Lab3\Lab3\bin\Debug\Lab3.pdb
+D:\Documents\Visual Studio 2015\Projects\Lab3\Lab3\bin\Debug\FSharp.Core.dll
+D:\Documents\Visual Studio 2015\Projects\Lab3\Lab3\bin\Debug\FSharp.Core.xml
+D:\Documents\Visual Studio 2015\Projects\Lab3\Lab3\obj\Debug\Lab3.exe
+D:\Documents\Visual Studio 2015\Projects\Lab3\Lab3\obj\Debug\Lab3.pdb

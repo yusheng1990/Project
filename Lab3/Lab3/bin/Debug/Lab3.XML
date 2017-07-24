@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<assembly><name>Lab3</name></assembly>
+<members>
+<member name="M:Program.checkwin">
+<summary>
+check the players can move their soldier. 
+If there have void around the soldier, then the game continue.
+</summary>
+</member>
+<member name="M:Program.MoveSoldier(System.String,System.Int32,System.Int32)">
+<summary>
+Move the soldier.
+</summary>
+</member>
+<member name="M:Program.checkBlackmove">
+<summary>
+Check the player can move their soldier.
+</summary>
+</member>
+<member name="M:Program.checkWhitemove">
+<summary>
+Check the player can move their soldier. It will check 8 positions which around the soldier. The bounder of position are from 0 to 4. 
+</summary>
+</member>
+<member name="M:Program.checkBlackposition(Microsoft.FSharp.Core.Unit,System.Int32,System.Int32)">
+<summary>
+If the num equal to 5, then it has the void for the soldier.
+check the black soldier can move
+</summary>
+</member>
+<member name="M:Program.checkWhiteposition(Microsoft.FSharp.Core.Unit,System.Int32,System.Int32)">
+<summary>
+If the Neutron is in the home rank of white soldier, the white soldier win
+Else the black soldier win
+check the white soldier can move
+</summary>
+</member>
+<member name="M:Program.IsNeutronWin">
+<summary>
+If the Neutron move to the home rank, the game will stop. One of the play will be win 
+</summary>
+</member>
+<member name="M:Program.MoveNeutron(System.String,System.Int32,System.Int32)">
+<summary>
+Move the neutron
+</summary>
+</member>
+<member name="M:Program.checkenterposition(Microsoft.FSharp.Core.Unit,System.Int32,System.Int32)">
+<summary>
+Check the position. If the position has the soldier, isposition&apos;s value change for true
+</summary>
+</member>
+<member name="M:Program.checkEnter(Microsoft.FSharp.Core.Unit,System.String,System.Int32,System.Int32)">
+<summary>
+Check the enter value of moving soldier was right or wrong
+</summary>
+</member>
+<member name="M:Program.checkEnterNeutron(Microsoft.FSharp.Core.Unit,System.String,System.Int32,System.Int32)">
+<summary>
+Check the enter value of moving neutron was right or wrong
+</summary>
+</member>
+<member name="M:Program.gameBoard">
+<summary>
+Draw the board and soldier
+</summary>
+</member>
+<member name="M:Program.setFirstPlayer">
+<summary>
+Set the first player 
+</summary>
+</member>
+<member name="M:Program.introduction">
+<summary>
+Game introduction
+</summary>
+</member>
+<member name="P:Program.RoundNum">
+<summary>
+count the round number.
+</summary>
+</member>
+<member name="P:Program.Neutron">
+<summary>
+Neutron soldier
+</summary>
+</member>
+<member name="P:Program.BlackSoldier">
+<summary>
+Black soldier
+</summary>
+</member>
+<member name="P:Program.WhiteSoldier">
+<summary>
+White soldier 
+</summary>
+</member>
+</members>
+</doc>
